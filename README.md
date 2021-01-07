@@ -2,7 +2,7 @@
 PageRank algorithm implementation from scratch using Python.
 
 - Run the algorithm using run.sh shell script.
-- We used Google's [Web Graph 2002] (http://snap.stanford.edu/data/web-Google.html) as input. The computation time of our algorithm on this benchmark set is 9366s. 
+- We used Google's [Web Graph 2002](http://snap.stanford.edu/data/web-Google.html) as input. The computation time of our algorithm on this benchmark set is 9366s. 
 - The code has been written considering the input data and the input filename has been hard-coded as "web-Google.txt" in source file "process.py". Change the input filename/process.py as required.
 
 
