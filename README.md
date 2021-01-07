@@ -6,7 +6,7 @@ PageRank algorithm implementation from scratch using Python.
 - The code has been written considering the input data and the input filename has been hard-coded as "web-Google.txt" in source file "process.py". Change the input filename/process.py as required.
 
 
-Source files description:
+##Source files description:
 run.sh:
 This shell script allows the user to run this algorithm. It first runs preprocess.py first, then it runs multiply.py and finally it runs post_multiplication.py. Then it checks if top_ten_pageranks.txt has been created, if no, then it runs multiply.py and post_multiplication.py in loop until top_ten_pageranks.txt is created. After completing the execution, it displays the total time taken for execution in seconds.
 
